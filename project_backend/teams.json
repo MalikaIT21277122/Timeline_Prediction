@@ -1,0 +1,102 @@
+[
+    {
+        "team_id": "T-1",
+        "team_name": "Alpha Developers",
+        "team_experience_level": 4,
+        "total_members": 10,
+        "past_projects_completed": 12,
+        "specialization": "Web Development",
+        "team_skillset_match": 82,
+        "team_availability": 0
+    },
+    {
+        "team_id": "T-2",
+        "team_name": "Beta Coders",
+        "team_experience_level": 4,
+        "total_members": 9,
+        "past_projects_completed": 14,
+        "specialization": "Mobile App Development",
+        "team_skillset_match": 80,
+        "team_availability": 72
+    },
+    {
+        "team_id": "T-3",
+        "team_name": "Gamma Engineers",
+        "team_experience_level": 5,
+        "total_members": 11,
+        "past_projects_completed": 3,
+        "specialization": "AI & Machine Learning",
+        "team_skillset_match": 89,
+        "team_availability": 74
+    },
+    {
+        "team_id": "T-4",
+        "team_name": "Delta Innovators",
+        "team_experience_level": 3,
+        "total_members": 8,
+        "past_projects_completed": 10,
+        "specialization": "Cybersecurity",
+        "team_skillset_match": 75,
+        "team_availability": 65
+    },
+    {
+        "team_id": "T-5",
+        "team_name": "Epsilon Builders",
+        "team_experience_level": 4,
+        "total_members": 12,
+        "past_projects_completed": 18,
+        "specialization": "Web Development",
+        "team_skillset_match": 88,
+        "team_availability": 70
+    },
+    {
+        "team_id": "T-6",
+        "team_name": "Zeta Creators",
+        "team_experience_level": 3,
+        "total_members": 7,
+        "past_projects_completed": 9,
+        "specialization": "Mobile App Development",
+        "team_skillset_match": 78,
+        "team_availability": 60
+    },
+    {
+        "team_id": "T-7",
+        "team_name": "Eta Architects",
+        "team_experience_level": 5,
+        "total_members": 10,
+        "past_projects_completed": 20,
+        "specialization": "Web Development",
+        "team_skillset_match": 90,
+        "team_availability": 80
+    },
+    {
+        "team_id": "T-8",
+        "team_name": "Theta Designers",
+        "team_experience_level": 4,
+        "total_members": 9,
+        "past_projects_completed": 15,
+        "specialization": "Cybersecurity",
+        "team_skillset_match": 85,
+        "team_availability": 68
+    },
+    {
+        "team_id": "T-9",
+        "team_name": "Iota Testers",
+        "team_experience_level": 3,
+        "total_members": 6,
+        "past_projects_completed": 8,
+        "specialization": "Mobile App Development",
+        "team_skillset_match": 70,
+        "team_availability": 50
+    },
+    {
+        "team_id": "T-10",
+        "team_name": "Kappa Maintainers",
+        "team_experience_level": 4,
+        "total_members": 10,
+        "past_projects_completed": 5,
+        "specialization": "AI & Machine Learning",
+        "team_skillset_match": 81,
+        "team_availability": 75
+    }
+]

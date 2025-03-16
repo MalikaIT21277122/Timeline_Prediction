@@ -1,0 +1,8 @@
+# Ignore Python cache & system files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore large files that should NOT be committed
+*.pkl
+*.dll
